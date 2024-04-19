@@ -1,3 +1,3 @@
-# Image-Compression
-SVD from Linear Algebra for image compression<br>
-A link for the video on SVD is attached, explaining the SVD Algorithm.
+# Singular Value Decomposition (SVD) Image Compression
+
+This project implements image compression using Singular Value Decomposition (SVD). SVD is a powerful matrix factorization technique widely used in various applications, including image processing. In image compression, SVD decomposes the original image matrix into three separate matrices representing its essential components: the left singular vectors, singular values, and right singular vectors. By retaining only the most significant singular values and their corresponding vectors, we achieve compression while preserving essential features of the image. This approach offers a balance between compression ratio and image quality, making it suitable for various image compression tasks.
